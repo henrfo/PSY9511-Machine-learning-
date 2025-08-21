@@ -1,0 +1,11 @@
+name: /Users/henrikformoe/Desktop/Desktop_M2/Projects_25/PSY9511/PSY9511_env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyter
+  - seaborn
+  - python=3.11
+  - numpy
+  - pandas
+prefix: /Users/henrikformoe/Desktop/Desktop_M2/Projects_25/PSY9511/PSY9511_env
