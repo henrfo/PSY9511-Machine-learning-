@@ -8,4 +8,5 @@ dependencies:
   - python=3.11
   - numpy
   - pandas
+  - scikit-learn
 prefix: /Users/henrikformoe/Desktop/Desktop_M2/Projects_25/PSY9511/PSY9511_env
